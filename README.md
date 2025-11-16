@@ -3,7 +3,6 @@
 
 Today's project focuses on Amazon Virtual Private Cloud (VPC), a service that provides an isolated network in AWS for controlling IP ranges, subnets, route tables, and security settings. The project involved creating a secure, isolated network and attaching an internet gateway for public access, enabling proper communication between instances. 
 
-
 ## Details of the project: 
 Used Amazon VPC to create a secure network: A logically isolated network was set up for AWS resources.
 
